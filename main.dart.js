@@ -71097,7 +71097,7 @@ I(a){var s=null
 return new A.wD(new A.Is(A.dQ(A.a([new A.Jt(s),A.bu(s,40,s),new A.Bw(s),new A.Ip(s),new A.Hj(s),new A.Ez(s),A.bu(s,20,s),new A.D7(s)],t.t),B.aA,B.a4,B.M),s),s)}}
 A.G6.prototype={
 I(a){var s=null
-return new A.vf(new A.Fa(s),"Flutter Demo",A.amx(s,$.ar_(),s,A.amK()),!1,s)}}
+return new A.vf(new A.Fa(s),"Protek",A.amx(s,$.ar_(),s,A.amK()),!1,s)}}
 A.Ey.prototype={}
 A.Hi.prototype={}
 A.Io.prototype={}
@@ -71253,12 +71253,12 @@ for(r=0;r<4;++r)s[r]=new A.wV(r,q)
 return A.d_(q,A.dQ(A.a([new A.nl("Service Offerings","My Strong Arenas",new A.C(4294901760),q),A.fJ(s,B.dg,B.M)],t.t),B.aA,B.a4,B.M),B.o,q,new A.am(0,1110,0,1/0),q,q,q,new A.an(0,40,0,40),q,q,q,q)}}
 A.F4.prototype={
 I(a){var s=null,r=A.h3(10),q=$.a3().K1(10,10,B.dK),p=A.ar(0,255,255,255)
-return new A.CT(r,A.arK(A.d_(s,A.dQ(A.a([A.c2("Hello There!",s,s,s,A.a4(a).p3.f.dW(B.i),s,s),A.c2("Robbie \nRutherford",s,s,s,A.cv(s,s,B.i,s,s,s,s,s,s,s,s,100,s,s,B.aI,s,1.5,!0,s,s,s,s,s,s,s,s),s,s),A.c2("Creative Design Director",s,s,s,A.a4(a).p3.f.dW(B.i),s,s)],t.t),B.bt,B.df,B.M),B.o,p,new A.am(0,1110,0,this.c.b*0.7),s,s,s,s,new A.an(40,0,40,0),s,s,1/0),q),s)}}
+return new A.CT(r,A.arK(A.d_(s,A.dQ(A.a([A.c2("Hello There!",s,s,s,A.a4(a).p3.f.dW(B.i),s,s),A.c2("Davide \nTalevi",s,s,s,A.cv(s,s,B.i,s,s,s,s,s,s,s,s,100,s,s,B.aI,s,1.5,!0,s,s,s,s,s,s,s,s),s,s),A.c2("Creative Software Engineering",s,s,s,A.a4(a).p3.f.dW(B.i),s,s)],t.t),B.bt,B.df,B.M),B.o,p,new A.am(0,1110,0,this.c.b*0.7),s,s,s,s,new A.an(40,0,40,0),s,s,1/0),q),s)}}
 A.FI.prototype={
 I(a){var s=null
 return A.dQ(A.a([A.i3("assets/images/Logo.png",s,s,s),new A.x9(1,s),new A.F4(this.c,s),new A.x9(3,s)],t.t),B.bt,B.a4,B.M)}}
 A.vl.prototype={
-ae(){return new A.MT(A.a(["Home","Abour","Services","Portfolio","Testimonial","Contact"],t.i),B.k)}}
+ae(){return new A.MT(A.a(["Home","About","Servizi","Portfolio","Testimonial","Contatti"],t.i),B.k)}}
 A.MT.prototype={
 I(a){var s,r=null,q=A.a([$.ajv()],t.Sx),p=J.Fm(6,t.ib)
 for(s=0;s<6;++s)p[s]=this.a3e(s)
